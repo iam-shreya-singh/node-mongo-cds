@@ -1,7 +1,8 @@
 {
   "name": "mongo-cds",
   "version": "1.0.0",
-  "description": "",
+  "description": "A test Repo to configure node js and mongodb",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
